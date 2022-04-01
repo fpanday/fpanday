@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fpanday
-- 👀 I’m interested in global change ecology, tree migration, and ecosystem response to climate change
-- 🌱 I’m currently a senior at UMD - go terps 🐢!
+- 👀 I’m interested in global change ecology, ecosystem response to climate change, and longitudinal and long-term changes to our climate. 
+- 🌱 I’m currently a BS/MS GEOG student at UMD - go terps 🐢!
 - 📫 You may reach me at fpanday@umd.edu
 
 <!---
